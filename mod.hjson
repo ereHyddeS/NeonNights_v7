@@ -1,0 +1,22 @@
+name: "[acid]Neon[cyan]Nights"
+displayName: "[acid]Neon[cyan]Nights"
+author: "!ereHyddeS#9188"
+description: "Make all units dark themed!
+
+Credits:
+[accent]ME, !ereHyddeS[], for making this out of boredom
+[accent]Antlrr[], for contributing lots
+[accent]Blop[], for ideas and meme dump
+[accent]WMF[], for being a cat
+
+Changelog 0.5:
+- Neon Dagger Tree
+- Neon Mender Blocks
+- Neon Overdrive Blocks
+- Neon Drills
+- Dark Force Projector
+- Dark Distribution Blocks"
+
+version: "0.5"
+minGameVersion: "120"
+hidden: "true"
