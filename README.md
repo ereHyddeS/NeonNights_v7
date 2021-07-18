@@ -1,3 +1,3 @@
 # NeonNights
  Mindustry Texture Pack
- Made by SeddyHere! and Antlrr
+ Made by !ereHyddeS and Antlrr
