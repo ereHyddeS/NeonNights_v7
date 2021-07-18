@@ -7,15 +7,15 @@ Credits:
 [accent]ME, !ereHyddeS[], for making this out of boredom
 [accent]Antlrr[], for contributing lots
 [accent]Blop[], for ideas and meme dump
-[accent]WMF[], for being a cat
+[accent]WMF[], for being a cat and for helping me in github
 
 Changelog 0.5:
-- Neon Dagger Tree
-- Neon Mender Blocks
-- Neon Overdrive Blocks
-- Neon Drills
-- Dark Force Projector
-- Dark Distribution Blocks"
+- Neon Bridges and Phase Conveyors
+- Neon Repair points
+- Neon Extractors
+- Neon Factories and Reconstructors
+- Oxynoe's weapon is now neon
+- Navanax's weapon is now neon"
 
 version: "0.6"
 minGameVersion: "120"
