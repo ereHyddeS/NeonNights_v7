@@ -11,8 +11,9 @@ Credits:
 • [accent]WMF[], for being a cat and for helping me in github"
 
 Changelogs:
-Neon Items
-
-version: "1.1"
+• Fixed Issue: Some versions have no Neon Items
+• Fixed Sprites: Liquid Router, Source, and Void
+• Graphite and Silicon Production blocks have darker "decals"
+version: "1."
 minGameVersion: "120"
 hidden: "true"
