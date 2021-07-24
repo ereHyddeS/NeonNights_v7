@@ -14,6 +14,6 @@ Changelogs:
 • Fixed Issue: Some versions have no Neon Items
 • Fixed Sprites: Liquid Router, Source, and Void
 • Graphite and Silicon Production blocks have darker "decals"
-version: "1."
+version: "1.2"
 minGameVersion: "120"
 hidden: "true"
