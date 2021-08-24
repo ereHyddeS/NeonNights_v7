@@ -3,14 +3,15 @@ displayName: "[acid]Neon[cyan]Nights"
 author: "!ereHyddeS#9188"
 description: "Makes Mindustry Dark Themed!
 
-[green]Credits[white]:
-• [accent]ME, !ereHyddeS[white], for making this out of boredom
-• [accent]Antlrr[white], for contributing [#F]lots
-• [accent]Woop[white], for contributing [#00F]few
-• [accent]Blop[white], for ideas and for meme dump
-• [accent]WMF[white], for being a cat and for helping me in github
+Credits[white]:
+• ME, !ereHyddeS, for making this out of boredom
+• Antlrr, for contributing lots
+• Woop, for contributing few
+• Blop, for ideas and for meme dump
+• WMF, for being a cat and for helping me in github
+• Gus, will come for you if you dare steal the mod or anything similar
 
-[green]Changelogs[white]:
+Changelogs:
 • Fixed Issue: Some blocks in schematics are not neon
 • New Color Pallete for Support and Specialist effects (Does not affect everything)"
 version: "1.3"
