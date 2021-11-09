@@ -9,11 +9,12 @@ Credits[white]:
 • Woop, for contributing few
 • Blop, for ideas and for meme dump
 • WMF, for being a cat and for helping me in github
-• Gus, will come for you if you dare steal the mod or anything similar
+• Gus, will come for you if you dare steal the mod or do anything similar
 
 Changelogs:
+This version is similar to 1.3 but extra
 • Fixed Issue: Some blocks in schematics are not neon
-• New Color Pallete for Support and Specialist effects (Does not affect everything)"
-version: "1.3"
+• New Color Pallete for Support and Specialist effects (ALMOST affects everything)"
+version: "1.4 beta"
 minGameVersion: "120"
 hidden: "true"

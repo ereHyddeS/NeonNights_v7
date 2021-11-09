@@ -1,0 +1,45 @@
+Events.on(ClientLoadEvent, b  => {
+UnitTypes.spiroct.weapons.get(0).bullet.hitColor = Color.valueOf("f17afa");
+UnitTypes.spiroct.weapons.get(1).bullet.hitColor = Color.valueOf("f17afa");
+UnitTypes.spiroct.weapons.get(2).bullet.hitColor = Color.valueOf("f17afa");
+UnitTypes.spiroct.weapons.get(3).bullet.hitColor = Color.valueOf("f17afa");
+UnitTypes.spiroct.weapons.get(0).bullet.color = Color.valueOf("f17afa");
+UnitTypes.spiroct.weapons.get(1).bullet.color = Color.valueOf("f17afa");
+UnitTypes.spiroct.weapons.get(2).bullet.color = Color.valueOf("f17afa");
+UnitTypes.spiroct.weapons.get(3).bullet.color = Color.valueOf("f17afa");
+UnitTypes.spiroct.weapons.get(3).bullet.color = Color.valueOf("f17afa");
+
+UnitTypes.arkyid.weapons.get(0).bullet.hitColor = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(1).bullet.hitColor = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(2).bullet.hitColor = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(3).bullet.hitColor = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(4).bullet.hitColor = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(5).bullet.hitColor = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(0).bullet.color = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(1).bullet.color = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(2).bullet.color = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(3).bullet.color = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(4).bullet.color = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(5).bullet.color = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(6).bullet.frontColor = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(6).bullet.lightningColor = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(6).bullet.backColor = Color.valueOf("7343bf");
+UnitTypes.arkyid.weapons.get(6).bullet.trailColor = Color.valueOf("7343bf");
+UnitTypes.arkyid.weapons.get(7).bullet.frontColor = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(7).bullet.lightningColor = Color.valueOf("f17afa");
+UnitTypes.arkyid.weapons.get(7).bullet.backColor = Color.valueOf("7343bf");
+UnitTypes.arkyid.weapons.get(7).bullet.trailColor = Color.valueOf("7343bf");
+
+UnitTypes.toxopid.weapons.get(0).bullet.fromColor = Color.valueOf("f17afa");
+UnitTypes.toxopid.weapons.get(0).bullet.toColor = Color.valueOf("7343bf");
+UnitTypes.toxopid.weapons.get(1).bullet.fromColor = Color.valueOf("f17afa");
+UnitTypes.toxopid.weapons.get(1).bullet.toColor = Color.valueOf("7343bf");
+UnitTypes.toxopid.weapons.get(2).bullet.frontColor = Color.valueOf("f17afa");
+UnitTypes.toxopid.weapons.get(2).bullet.lightningColor = Color.valueOf("f17afa");
+UnitTypes.toxopid.weapons.get(2).bullet.lightColor = Color.valueOf("814c9e");
+UnitTypes.toxopid.weapons.get(2).bullet.trailColor = Color.valueOf("7343bf");
+UnitTypes.toxopid.weapons.get(2).bullet.fragBullet.lightningColor = Color.valueOf("f17afa");
+UnitTypes.toxopid.weapons.get(2).bullet.fragBullet.backColor = Color.valueOf("7343bf");
+UnitTypes.toxopid.weapons.get(2).bullet.fragBullet.trailColor = Color.valueOf("7343bf");
+UnitTypes.toxopid.weapons.get(2).bullet.fragBullet.lightColor = Color.valueOf("814c9e");
+});
