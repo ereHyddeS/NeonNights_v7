@@ -1,10 +1,10 @@
 name: "[acid]Neon[cyan]Nights"
 displayName: "[acid]Neon[cyan]Nights"
-author: "!ereHyddeS#9188"
+author: WMF Industries
 description: "Makes Mindustry Dark Themed!
 
 Credits[white]:
-• ME, !ereHyddeS, for making this out of boredom
+• !ereHyddeS, for making this out of boredom
 • Antlrr, for contributing lots
 • Woop, for contributing few
 • Binonib, for contributing few
@@ -17,6 +17,7 @@ This version is similar to 1.3 but extra
 • Factories and Reconstructors have lighter payload shading
 • V E L A
 • Neon Liquid Container"
+• Seddy quit the development, R.I.P
 version: "1.4 beta"
 minGameVersion: "120"
 hidden: "true"
