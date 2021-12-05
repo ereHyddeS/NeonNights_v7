@@ -18,6 +18,6 @@ This version is similar to 1.3 but extra
 • V E L A
 • Neon Liquid Container
 • Seddy quit the development, R.I.P"
-version: "1.4 beta"
+version: "1.4"
 minGameVersion: "120"
 hidden: "true"
