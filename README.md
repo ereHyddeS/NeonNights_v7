@@ -1,4 +1,4 @@
-# NeonNights
+# NeonNights v7
  Mindustry Texture Pack
  Made by !ereHyddeS and Antlrr, with the help of Woop.
  Seddy left the team, but this doesn't mean that his contributions aren't important.
