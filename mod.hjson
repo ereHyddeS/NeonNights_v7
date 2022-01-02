@@ -4,12 +4,11 @@ author: WMF Industries
 description: "Makes Mindustry Dark Themed!
 
 Credits[white]:
-• !ereHyddeS, for the idea of this texture pack, and making most of it
+• !ereHyddeS, for making this out of boredom
 • Antlrr, for contributing lots
 • Woop, for contributing few
 • Binonib, for contributing few
 • Blop, for ideas and for meme dump
-• WMF, for being a cat and for helping me in github
 • Gus, will come for you if you dare steal the mod or do anything similar
 
 Changelogs:
@@ -17,7 +16,7 @@ This version is similar to 1.3 but extra
 • Factories and Reconstructors have lighter payload shading
 • V E L A
 • Neon Liquid Container
-• Seddy quit the development, R.I.P"
+• This texture pack is now fully Seddy's thing
 version: "1.4"
 minGameVersion: "127"
 hidden: "true"
