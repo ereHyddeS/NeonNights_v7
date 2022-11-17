@@ -1,7 +1,7 @@
 name: "[acid]Neon[cyan]Nights [yellow]v7"
 displayName: "[acid]Neon[cyan]Nights [yellow]v7"
 author: !ereHyddeS
-description: "Makes Mindustry Dark Themed!"
+description: "Makes Mindustry Dark Themed!
 
 Credits[white]:
 • !ereHyddeS, for making this out of boredom
@@ -12,11 +12,7 @@ Credits[white]:
 • Gus, will come for you if you dare steal the mod or do anything similar
 
 Changelogs:
-This version is similar to 1.3 but extra
-• Factories and Reconstructors have lighter payload shading
-• V E L A
-• Neon Liquid Container
-• This texture pack is now fully Seddy's thing
-version: "1.4"
-minGameVersion: "127"
+• Hello there"
+version: "1.5"
+minGameVersion: "136"
 hidden: "true"
