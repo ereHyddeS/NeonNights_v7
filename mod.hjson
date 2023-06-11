@@ -1,5 +1,5 @@
-name: "[acid]Neon[cyan]Nights [yellow]v7"
-displayName: "[acid]Neon[cyan]Nights [yellow]v7"
+name: "[acid]Neon[cyan]Nights [yellow]v6"
+displayName: "[acid]Neon[cyan]Nights [yellow]v6"
 author: !ereHyddeS
 description: "Makes Mindustry Dark Themed!
 
@@ -14,5 +14,6 @@ Credits[white]:
 Changelogs:
 • Hello there"
 version: "1.5"
-minGameVersion: "136"
+minGameVersion: "126"
 hidden: "true"
+hideBrowser: "true"
